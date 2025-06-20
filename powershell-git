@@ -1,0 +1,1 @@
+Get-ChildItem -Path "C:\Users\psaishreyanjali\OneDrive - Infor\Documents" -Directory -Force -Recurse -Filter ".git"
